@@ -26,7 +26,6 @@ Hello, world!
 - `m`: magenta
 - `c`: cyan
 - `w`: white
-
 - `kb`: background black
 - `rb`: background red
 - `gb`: background green
@@ -35,7 +34,6 @@ Hello, world!
 - `mb`: background magenta
 - `cb`: background cyan
 - `wb`: background white
-
 - `ki`: intense black
 - `ri`: intense red
 - `gi`: intense green
@@ -44,7 +42,6 @@ Hello, world!
 - `mi`: intense magenta
 - `ci`: intense cyan
 - `wi`: intense white
-
 - `kbi`: intense background black
 - `rbi`: intense background red
 - `gbi`: intense background green
@@ -53,7 +50,6 @@ Hello, world!
 - `mbi`: intense background magenta
 - `cbi`: intense background cyan
 - `wbi`: intense background white
-
 - `/`: reset
 - `*`: bold
 - `_`: italic
