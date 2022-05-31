@@ -2,7 +2,7 @@
 
 [![Bundlephobia](https://badgen.net/bundlephobia/minzip/@golfed/color)](https://bundlephobia.com/package/@golfed/color)
 
-Possibly the tiniest color library ever. 42 styles in barely 177 bytes of minified, gzipped, golfed, no dependency code.
+Possibly the tiniest color library ever. 42 styles in barely 146 bytes of minified, gzipped, golfed, no dependency code.
 
 ```javascript
 import color from '@golfed/color';
