@@ -1,0 +1,12 @@
+{
+	"name": "@golfed/color",
+	"version": "1.0.0",
+	"description": "The smallest color library in the world (possibly)",
+	"main": "index.js",
+	"author": "Siddharth Shyniben <siddharth.muscat@gmail.com>",
+	"license": "GPL-3.0",
+	"type": "module",
+	"publishConfig": {
+		"access": "public"
+	}
+}
